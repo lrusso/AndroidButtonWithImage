@@ -3,7 +3,7 @@
 How to use it? Put the button.xml file in the drawable folder and then use it like the example below.
 
 ```
-<Button     android:id="@+id/correo"
+<Button     android:id="@+id/example"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="5dp"
