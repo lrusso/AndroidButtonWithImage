@@ -1,6 +1,6 @@
 # Android Button With Image
 
-How to use?
+How to use it? Put the button.xml file in the drawable folder and then use it like the example below.
 
 ```
 <Button     android:id="@+id/correo"
